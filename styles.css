@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+*{
+	background:lightblue;
+}
+a:link {
+      text-decoration: none;
+	background:white;
+}
+
+.song{
+	width:100%;
+	background:white;
+}
